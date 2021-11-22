@@ -1,4 +1,4 @@
-<img src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/assets/github.gif" height="219.49px" />
+<img src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/assets/github.gif" width="628px" height="219.49px" />
 
 ### Hi there 👋
 
