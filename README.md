@@ -1,9 +1,9 @@
+<img src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/main/assets/github.gif" />
 ### Hi there 👋
 
 <!--
 **Lilpiggie0522/Lilpiggie0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/main/assets/github.gif" />
 
 - 🔭 I’m currently working on learning MERN Stack and Java SE.
 - 🌱 I’m currently learning Computer Science.
