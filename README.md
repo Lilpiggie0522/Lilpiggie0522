@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on learning MERN Stack and Java SE.
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently studying Bachelor of Computer Science at UNSW.
 - 🤔 I’m looking for employment.
-- 📫 How to reach me: You cannot.
+- 📫 How to reach me: You do not. I reach out to you.
 
