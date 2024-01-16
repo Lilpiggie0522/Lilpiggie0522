@@ -28,7 +28,8 @@
 <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/css.svg?raw=true" alt="CSS3" title="CSS3"/>
 <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/js.svg?raw=true" alt="JavaScript" title="JavaScript"/>
 <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/reactjs.svg?raw=true" alt="React" title="React"/>
-<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/nodejs-vertical.svg?raw=true" alt="Node" title="Node"/>
+<!-- <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/nodejs-vertical.svg?raw=true" alt="Node" title="Node"/> -->
+<img width="26" align="left" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/c.svg?raw=true" alt="C" title="C"/>
 <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/java-vertical.svg?raw=true" alt="Java" title="Java"/>
 <img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/springboot.png?raw=true" alt="SpringBoot" title="SpringBoot"/>
