@@ -12,7 +12,7 @@
 - 📫 How to reach me: You do not. I reach out to you.
 
 ### Languages and Tools:
-<img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+<!-- <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
@@ -22,4 +22,11 @@
 <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
 <img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/>
-<img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+<img width="26" align = "left" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/> -->
+
+<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/html.svg?raw=true" alt="HTML5" title="HTML5"/>
+<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/css.svg?raw=true" alt="CSS3" title="CSS3"/>
+<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/js.svg?raw=true" alt="JavaScript" title="JavaScript"/>
+<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/reactjs.svg?raw=true" alt="React" title="React"/>
+<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/nodejs-vertical.svg?raw=true" alt="Node" title="Node"/>
+<img width="26" align = "left" src="https://github.com/Lilpiggie0522/Lilpiggie0522/blob/master/icons/c.svg?raw=true" alt="C" title="C"/>
